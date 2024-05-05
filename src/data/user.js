@@ -26,6 +26,12 @@ const user = {
       about: "Etsy for aliens",
       technologies: ["React", "Redux", "Rails"],
     },
+    {
+      id: 4,
+      name: "jgfjhvjh",
+      about: "Etsy for aliens",
+      technologies: ["React", "Redux", "Rails"],
+    },
   ],
 };
 
